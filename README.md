@@ -1,4 +1,4 @@
-# A-B-Testing
+# A/B-Testing
 
 A/B tests are very commonly performed by data analysts and data scientists. 
 
